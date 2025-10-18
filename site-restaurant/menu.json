@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "Sandwichs",
+      "items": [
+  { "id": 1, "name": "Kebab Classique", "description": "Viande tendre, salade, tomate, sauce maison.", "price": 7.50, "image": "images/resto/kebab.jpg" },
+  { "id": 2, "name": "Tacos L'Alhambra", "description": "Tacos généreux, fromage fondant, frites en option.", "price": 8.90, "image": "images/resto/tacos.jpeg" }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "items": [
+  { "id": 10, "name": "Burger Maison", "description": "Steak haché 180g, cheddar, oignons caramélisés.", "price": 9.50, "image": "images/resto/burger.avif" },
+  { "id": 11, "name": "Vegan Bowl", "description": "Galette légumes, avocat, jeunes pousses.", "price": 8.00, "image": "images/resto/vegan-bowl.jpg" }
+      ]
+    },
+    {
+      "name": "Accompagnements",
+      "items": [
+  { "id": 20, "name": "Frites Maison", "description": "Coupées et cuites sur place.", "price": 3.00, "image": "images/resto/frites.jpg" },
+  { "id": 21, "name": "Nuggets", "description": "6 pièces croustillantes.", "price": 4.50, "image": "images/resto/nuggets.jpg" }
+      ]
+    },
+    {
+      "name": "Desserts & Boissons",
+      "items": [
+  { "id": 30, "name": "Tiramisu Maison", "description": "Recette traditionnelle.", "price": 4.50, "image": "images/resto/tiramisu.webp" },
+  { "id": 31, "name": "Soda 33cl", "description": "Coca / Ice Tea / Orangina.", "price": 2.50, "image": "images/resto/sodas.jpg" }
+      ]
+    }
+  ]
+}
